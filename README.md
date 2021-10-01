@@ -15,7 +15,7 @@
   * [Ruby](#Ruby)
   * [OpenSSL](#OpenSSL)
   * [Java](#Java)
-  * [xterm](#Xterm)
+  * [Xterm](#xterm)
   * [Spawn a tty shell](#spawn-tty-shell)
 
 
