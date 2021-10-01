@@ -12,4 +12,4 @@
  ___) |  _  | |___| |___| |___ ___) |
 |____/|_| |_|_____|_____|_____|____/
 ```
-## From one-liners all the way to scripts. One stop Shop
+## From one-liners all the way to scripts! One stop Shop
